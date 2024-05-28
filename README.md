@@ -1,2 +1,2 @@
-# mokotoProject
+# motokoProject
 Basic to-do app 
